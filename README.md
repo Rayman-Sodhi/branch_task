@@ -1,4 +1,4 @@
-# Chat App for Customers and Clients
+# Chat App for Customers and Agents
 
 ## Client Dependencies
 
