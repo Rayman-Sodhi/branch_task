@@ -10,6 +10,7 @@ require("dotenv").config();
 
 app.use(cors());
 app.use(express.json());
+app.get('/',(req,res)=>res.status(200).json({message: 'hello world'}))
 
 //connect to DB
 mongoose
